@@ -34,7 +34,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/noval110/109082500100_Akhmad-Noval-A/blob/main/MODUL2/soal2C/soal2c.png)
+![Screenshot Output Unguided 1_1](soal2c.png)
 [penjelasan]
 Program ini dibuat untuk menghitung biaya pengiriman parsel di PT POS berdasarkan berat barang dalam gram. Pengguna terlebih dahulu diminta memasukkan berat parsel dalam satuan gram. Program kemudian mengubah berat tersebut menjadi kilogram dan sisa gram dengan cara membagi berat gram dengan 1000. Hasil pembagian menunjukkan jumlah kilogram, sedangkan sisa pembagian menunjukkan jumlah gram yang tersisa.
 

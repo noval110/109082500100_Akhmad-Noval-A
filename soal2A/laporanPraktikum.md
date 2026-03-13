@@ -34,7 +34,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/noval110/109082500100_Akhmad-Noval-A/blob/main/MODUL2/soal2A/soal2a.png)
+![Screenshot Output Unguided 1_1](soal2a.png)
 [penjelasan]
 Program pada soal ini berfungsi untuk menerima tiga buah input berupa string dari pengguna. Pengguna diminta memasukkan tiga kata atau teks yang akan disimpan dalam tiga variabel berbeda. Setelah semua data dimasukkan, program akan menampilkan urutan awal dari ketiga string tersebut sesuai dengan input yang diberikan oleh pengguna.
 

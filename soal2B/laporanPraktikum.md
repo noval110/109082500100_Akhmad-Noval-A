@@ -40,7 +40,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/noval110/109082500100_Akhmad-Noval-A/blob/main/MODUL2/soal2B/soal2b.png)
+![Screenshot Output Unguided 1_1](soal2b.png)
 [penjelasan]
 Program ini dibuat untuk mencatat hasil percobaan praktikum kimia yang dilakukan sebanyak lima kali percobaan. Pada setiap percobaan terdapat empat tabung reaksi yang masing-masing berisi cairan dengan warna tertentu. Pengguna diminta memasukkan warna dari keempat tabung tersebut setiap kali percobaan dilakukan. Program kemudian memeriksa apakah urutan warna yang dimasukkan sesuai dengan ketentuan yang diberikan.
 
