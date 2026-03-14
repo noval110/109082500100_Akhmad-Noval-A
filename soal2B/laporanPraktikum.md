@@ -1,10 +1,10 @@
-# <h1 align="center">Laporan Praktikum Modul 2 - ... </h1>
+# <h1 align="center">Laporan Praktikum Modul 2 - ALGORITMA PEMROGRAMAN 2 </h1>
 <p align="center">[Akhmad Noval Annur] - [109082500100]</p>
 
 ## Unguided 
 
 ### 1. [Soal]
-#### soal1.go
+#### soal2B.go
 
 ```go
 package main
